@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+xml_proc = { path = "../xml_proc" }
+zip = "0.6"

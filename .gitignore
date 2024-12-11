@@ -1,1 +1,4 @@
 /target
+src/example_files/
+src/processed_files/
+src/unprocessed_folder/
